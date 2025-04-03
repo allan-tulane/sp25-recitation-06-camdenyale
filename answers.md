@@ -26,5 +26,3 @@ Place all written answers from `recitation-07.md` here for easier grading.
 - **8)** The work and span of fib_bottom_up are both O(n).
 
 - This is because the maximum number of times that will be read for Fi any value i is 1. 
-
-- 
